@@ -1,6 +1,6 @@
 ### Hello
 
-I am a Solo Developer and this is my github page.
+I am a Solo Game Developer and this is my github page.
 
 <!--
 **bionicnrg/bionicnrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
